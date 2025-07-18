@@ -14,7 +14,7 @@ A private Discord bot that downloads audio from YouTube links as mp3, m4a, or we
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/yt2mp3-discord-bot.git
+git clone https://github.com/Psycho-Fan/yt2mp3-discord-bot.git
 cd yt2mp3-discord-bot
 ```
 
